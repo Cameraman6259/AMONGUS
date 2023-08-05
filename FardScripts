@@ -28,10 +28,10 @@ end
 
 local fagfolder1 = workspace:FindFirstChild("FagFolder")
 
-local W1 = OrionLib:MakeWindow({Name = "Furry exterminator by FardScripts", HidePremium = false, SaveConfig = false, ConfigFolder = "Furry Infection"})
+local W1 = OrionLib:MakeWindow({Name = "funny prank script by FardScripts", HidePremium = false, SaveConfig = false, ConfigFolder = "Furry Infection"})
 
 OrionLib:MakeNotification({
-    Name = "Furry Infection destroyer by kakafard",
+    Name = "funny prank script by kakafard",
     Content = "This script supports Furry infection, monster infection and facility of redemption, idk if there's more supported games",
     Image = "rbxassetid://6890648157", --- rbxassetid://4483345998
     Time = 30
